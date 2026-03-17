@@ -13,6 +13,8 @@
     <label for="pword">Salasana:</label>
     <input id="pword" type="password" name="password" maxlength=30>
     <input id="sendbutton" type="submit" value="Lähetä">
+    <label for="syntymäpäivä">syntymäpäivä</label>
+    <input type="date" name="syntymäpäivä" id="syntymäpäivä" required>
 </form>
 </div>
 
